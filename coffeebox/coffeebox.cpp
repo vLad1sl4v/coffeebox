@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <cmath>
 #include <Windows.h>
 #include <cstdlib>
@@ -40,6 +40,7 @@ void printBalance();
 void printCallService();
 void printWarning();
 void printYourCoffee();
+void printError(int);
 void showMainMenu();
 void showDepositMenu();
 void showCoffeeMenu();
