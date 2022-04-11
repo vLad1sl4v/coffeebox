@@ -5,8 +5,8 @@
 
 using namespace std;
 
-const int PIN = 8815;
-const int MAX_ATTEMPTS = 3;
+const int PIN = 8816;
+const int MAX_ATTEMPTS = 4;
 const int MAX_CHOICE = 5;
 const int MAX_CHOICE_DEPOSIT = 6;
 const int MAX_CHOICE_COFFEE = 4;
